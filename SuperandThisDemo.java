@@ -44,6 +44,12 @@ class B extends A
     }
 }
 
+/* Output :
+this Is Default constructor of A
+this is Default Constructor of B
+This is Parameterized Constructor of B
+*/
+
 /*  Note : 
 * By default every Constructor will call first super method
 * Super is nothing but calling the super or parent class
