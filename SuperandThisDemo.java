@@ -51,6 +51,6 @@ This is Parameterized Constructor of B
 */
 
 /*  Note : 
-* By default every Constructor will call first super method
-* Super is nothing but calling the super or parent class
+1. By default every Constructor will call first super method
+2. Super is nothing but calling the super or parent class
  */
